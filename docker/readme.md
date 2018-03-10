@@ -5,6 +5,8 @@ https://docs.docker.com/get-started/#test-docker-installation
 https://docker-curriculum.com
 
 
+#### Installation on Mac OS
+https://docs.docker.com/docker-for-mac/install/
 
 #### Installation on Ubuntu
 
@@ -21,16 +23,6 @@ sudo systemctl status docker
 sudo apt-get install docker-engine -y
 docker ps
 ```
-
-
-
-
-#### Installation of docker compose
-
-````
-sudo curl -L https://github.com/docker/compose/releases/download/1.19.0/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
-chmod +x /usr/local/bin/docker-compose
-````
 
 
 
